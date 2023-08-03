@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\OneDrive\\Рабочий стол\\Учеба\\IOS\\Знакомство с языками програмированния\\Семинар 1\\seminar\\Home Work seminar 1-4\\Home Work seminar 1-4.csproj": {}
+    "C:\\Users\\anton\\OneDrive\\Рабочий стол\\Учеба\\IOS\\Знакомство с языками програмированния\\Семинар 1\\seminar\\Home work seminar 1-3\\Home work seminar 1-3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\OneDrive\\Рабочий стол\\Учеба\\IOS\\Знакомство с языками програмированния\\Семинар 1\\seminar\\Home Work seminar 1-4\\Home Work seminar 1-4.csproj": {
+    "C:\\Users\\anton\\OneDrive\\Рабочий стол\\Учеба\\IOS\\Знакомство с языками програмированния\\Семинар 1\\seminar\\Home work seminar 1-3\\Home work seminar 1-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Рабочий стол\\Учеба\\IOS\\Знакомство с языками програмированния\\Семинар 1\\seminar\\Home Work seminar 1-4\\Home Work seminar 1-4.csproj",
-        "projectName": "Home Work seminar 1-4",
-        "projectPath": "C:\\Users\\anton\\OneDrive\\Рабочий стол\\Учеба\\IOS\\Знакомство с языками програмированния\\Семинар 1\\seminar\\Home Work seminar 1-4\\Home Work seminar 1-4.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Рабочий стол\\Учеба\\IOS\\Знакомство с языками програмированния\\Семинар 1\\seminar\\Home work seminar 1-3\\Home work seminar 1-3.csproj",
+        "projectName": "Home work seminar 1-3",
+        "projectPath": "C:\\Users\\anton\\OneDrive\\Рабочий стол\\Учеба\\IOS\\Знакомство с языками програмированния\\Семинар 1\\seminar\\Home work seminar 1-3\\Home work seminar 1-3.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\OneDrive\\Рабочий стол\\Учеба\\IOS\\Знакомство с языками програмированния\\Семинар 1\\seminar\\Home Work seminar 1-4\\obj\\",
+        "outputPath": "C:\\Users\\anton\\OneDrive\\Рабочий стол\\Учеба\\IOS\\Знакомство с языками програмированния\\Семинар 1\\seminar\\Home work seminar 1-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
