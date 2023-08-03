@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\obj\Debug\net6.0\Home Work seminar 1-1.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\obj\Debug\net6.0\Home Work seminar 1-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\obj\Debug\net6.0\Home Work seminar 1-1.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\obj\Debug\net6.0\Home Work seminar 1-1.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\obj\Debug\net6.0\Home Work seminar 1-1.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\bin\Debug\net6.0\Home Work seminar 1-1.exe
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\bin\Debug\net6.0\Home Work seminar 1-1.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\bin\Debug\net6.0\Home Work seminar 1-1.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\bin\Debug\net6.0\Home Work seminar 1-1.dll
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\bin\Debug\net6.0\Home Work seminar 1-1.pdb
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\obj\Debug\net6.0\Home Work seminar 1-1.dll
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\obj\Debug\net6.0\refint\Home Work seminar 1-1.dll
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\obj\Debug\net6.0\Home Work seminar 1-1.pdb
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\obj\Debug\net6.0\Home Work seminar 1-1.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\Учеба\IOS\Знакомство с языками програмированния\Семинар 1\seminar\Home Work seminar 1-1\obj\Debug\net6.0\ref\Home Work seminar 1-1.dll
