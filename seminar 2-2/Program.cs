@@ -6,6 +6,7 @@
 // -4, 16  ->  да
 // 25, 5  ->  да
 // 8,9  ->  нет
+// && - and || - or
 
 Console.Write("Введите число 1 ");
 int firstNumber = Convert.ToInt32(Console.ReadLine());
